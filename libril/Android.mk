@@ -16,7 +16,7 @@ LOCAL_SHARED_LIBRARIES := \
 
 LOCAL_CFLAGS :=
 
-LOCAL_MODULE:= libril
+LOCAL_MODULE:= libril_p500
 
 LOCAL_LDLIBS += -lpthread
 
